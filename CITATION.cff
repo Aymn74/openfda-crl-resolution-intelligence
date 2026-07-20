@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "openFDA CRL Resolution Intelligence"
+type: dataset
+authors:
+  - family-names: "ALQasem"
+    given-names: "Ayman"
+version: 0.1.0
+date-released: 2026-07-20
+license: CC-BY-4.0
+repository-code: "https://github.com/Aymn74/openfda-crl-resolution-intelligence"
+keywords:
+  - FDA
+  - openFDA
+  - Complete Response Letters
+  - regulatory affairs
+  - pharmaceutical regulation
+  - NLP
+  - regulatory intelligence
+abstract: >-
+  An auditable rule-based regulatory NLP reanalysis of FDA Complete Response Letters,
+  separating approvability-deficiency candidates, remediation actions,
+  non-approvability comments, boilerplate, and unassessable text, with candidate
+  cross-cycle issue linkage pending human adjudication.
