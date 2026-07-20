@@ -44,7 +44,7 @@
 ## الملفات الرئيسية
 
 - [`data/CRL_analysis.xlsx`](data/CRL_analysis.xlsx): ملف التحليل متعدد الأوراق، ويشمل الرسائل، والطبقات A–E، والروابط الزمنية، والتصنيف، وقوائم المراجعة.
-- [`docs/CRL_Arabic_Methodology.docx`](docs/CRL_Arabic_Methodology.docx): الوثيقة العربية الكاملة للمنهجية وعقد الترميز والنتائج والقيود.
+-[`data/CRL_Arabic_Methodology.docx`](data/CRL_Arabic_Methodology.docx): الوثيقة العربية الكاملة للمنهجية وعقد الترميز والنتائج والقيود.
 - [`docs/DATA_DICTIONARY_AR.md`](docs/DATA_DICTIONARY_AR.md): قاموس مختصر للحقول والكيانات.
 - [`docs/VALIDATION_PLAN_AR.md`](docs/VALIDATION_PLAN_AR.md): خطة التحكيم البشري وقياس الجودة.
 
