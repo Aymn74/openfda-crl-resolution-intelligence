@@ -1,6 +1,4 @@
-# Data files
-
-ضع ملف التحليل الرئيسي هنا باسم:
+# Data files:
 
 - `CRL_analysis.xlsx`
 
