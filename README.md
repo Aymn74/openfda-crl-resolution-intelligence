@@ -85,8 +85,7 @@ AND prior_review_cycle < current_review_cycle
 
 ## مصدر البيانات
 
-المصدر الأساسي: [openFDA CRL Transparency](https://open.fda.gov/data/crl/)
-
+المصدر الأساسي: [تنزيل ملف openFDA CRL Transparency بصيغة JSON ZIP](https://download.open.fda.gov/transparency/crl/transparency-crl-0001-of-0001.json.zip)
 آخر تحديث للمصدر المستخدم في التحليل: **13 يوليو 2026**.
 
 ## حالة المشروع
